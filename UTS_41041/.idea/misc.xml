@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MobileApp/GeraldNicholasChandra_00000041041_UTS/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23854166666666668" />
+        <entry key="..\:/MobileApp/GeraldNicholasChandra_00000041041_UTS/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.23854166666666668" />
+        <entry key="..\:/MobileApp/GeraldNicholasChandra_00000041041_UTS/app/src/main/res/layout/activity_detil_audio.xml" value="0.33" />
+        <entry key="..\:/MobileApp/GeraldNicholasChandra_00000041041_UTS/app/src/main/res/layout/activity_library.xml" value="0.33" />
+        <entry key="..\:/MobileApp/GeraldNicholasChandra_00000041041_UTS/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/MobileApp/GeraldNicholasChandra_00000041041_UTS/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/MobileApp/GeraldNicholasChandra_00000041041_UTS/app/src/main/res/layout/activity_play.xml" value="0.5" />
+        <entry key="..\:/MobileApp/GeraldNicholasChandra_00000041041_UTS/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/MobileApp/GeraldNicholasChandra_00000041041_UTS/app/src/main/res/layout/audio_item_layout.xml" value="0.21649484536082475" />
+        <entry key="..\:/MobileApp/GeraldNicholasChandra_00000041041_UTS/app/src/main/res/layout/item.xml" value="0.67" />
+        <entry key="..\:/MobileApp/GeraldNicholasChandra_00000041041_UTS/app/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="..\:/MobileApp/GeraldNicholasChandra_00000041041_UTS/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.23854166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeraldNicholasChandra_00000041041_UTS</string>
+    <string name="title">SFX Library and Previewer</string>
+    <string name="btnProfile">PROFILE</string>
+    <string name="btnLibrary">LIBRARY</string>
+    <string name="loginTitle">LOGIN PAGE</string>
+    <string name="next">NEXT</string>
+    <string name="profile">Profile</string>
+    <string name="converterYoutube">https://ytmp3.cc/en23/</string>
+    <string name="spongebobRingtone">https://www.youtube.com/watch?v=QdqzA_4H90A</string>
+    <string name="gtaRingtone">https://www.youtube.com/watch?v=7xcYv4w2iak</string>
+    <string name="coronaVsCarlota">https://www.youtube.com/watch?v=Zo8vNzhRHZI</string>
+    <string name="otwBandung">https://www.youtube.com/watch?v=cztOqpSjZiE</string>
+    <string name="safeAndSound">https://www.youtube.com/watch?v=13ARO0HDZsQ</string>
+    <string name="hideActionBar">https://medium.com/codixlab/how-to-hide-action-bar-c1bc838d23c8</string>
+    <string name="circularImageView">https://badoystudio.com/cara-menggunakan-circular-imageview/</string>
+</resources>
